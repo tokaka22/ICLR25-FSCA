@@ -37,9 +37,11 @@ All experiments were performed using NVIDIA H800 80GB GPUs, NVIDIA A800 80GB GPU
    Note that GMAA is only tested on Ubuntu OS with the following environments. It may work on other operating systems (i.e., Windows) as well but we do not guarantee that it will.
    
    + Please refer to `env.sh` and `requirements.txt` to complete the environment configuration
+
 2. Prepare the datasets:
    
    + Download all the datasets from [[TimesNet](https://github.com/thuml/Time-Series-Library)].
+   
 3. Training Configuration:
    
    + For each task, you can use the subfolder `scirpts` for training, and the training results will be visualized and recorded via Wandb.
