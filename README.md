@@ -18,7 +18,7 @@ The official implementation of our ICLR-2025 paper "**Context-Alignment: Activat
 ## Introduction
 
 <p align="center">
-<img src="./Figures/overview.png" height = "360" alt="" align=center />
+<img src="./overview.png" height = "360" alt="" align=center />
 </p>
 
 Recently, leveraging pre-trained Large Language Models (LLMs) for time series
