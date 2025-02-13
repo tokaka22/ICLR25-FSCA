@@ -5,11 +5,13 @@
 > If this resource has been helpful to you, we'd love it if you could give us a star ⭐ and cite our research!
 
 ```
-@article{hu2025context,
-title={Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series},
-author={Hu, Yuxiao and Li, Qian and Zhang, Dongxiao and Yan, Jinyue and Chen, Yuntian},
-journal={arXiv preprint arXiv:2501.03747},
-year={2025}
+@inproceedings{
+hu2025contextalignment,
+title={Context-Alignment: Activating and Enhancing {LLM}s Capabilities in Time Series},
+author={Yuxiao Hu and Qian Li and Dongxiao Zhang and Jinyue Yan and Yuntian Chen},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=syC2764fPc}
 }
 ```
 
@@ -34,7 +36,7 @@ All experiments were performed using NVIDIA H800 80GB GPUs, NVIDIA A800 80GB GPU
 
 1. Prerequisites:
    
-   Note that GMAA is only tested on Ubuntu OS with the following environments. It may work on other operating systems (i.e., Windows) as well but we do not guarantee that it will.
+   Note that FSCA is only tested on Ubuntu OS with the following environments. It may work on other operating systems (i.e., Windows) as well but we do not guarantee that it will.
    
    + Please refer to `env.sh` and `requirements.txt` to complete the environment configuration
 
