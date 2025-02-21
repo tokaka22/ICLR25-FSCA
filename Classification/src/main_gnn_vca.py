@@ -6,9 +6,9 @@ George Zerveas et al. A Transformer-based Framework for Multivariate Time Series
 Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21), August 14--18, 2021
 """
 
-import os
-os.environ['TRANSFORMERS_CACHE'] = '/code/huggingface/hub'
-os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
+# import os
+# os.environ['TRANSFORMERS_CACHE'] = '/code/huggingface/hub'
+# os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 
 import logging
 

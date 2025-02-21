@@ -1,9 +1,9 @@
 import sys
 sys.path.append('.')
 
-import os
-os.environ['TRANSFORMERS_CACHE'] = '/code/huggingface/hub'
-os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
+# import os
+# os.environ['TRANSFORMERS_CACHE'] = '/code/huggingface/hub'
+# os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 
 import argparse
 import os

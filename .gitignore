@@ -134,6 +134,7 @@ dmypy.json
 
 wandb
 datasets
+!Classification/src/datasets
 *.pth
 *.pt
 *.log
